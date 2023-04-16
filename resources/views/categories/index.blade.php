@@ -37,5 +37,8 @@
                 }
             }
         </script>
+        <div class="footer">
+            <a href="/">カテゴリ別表示からタイトルに戻る</a>
+        </div>
     </body>
 </html>
